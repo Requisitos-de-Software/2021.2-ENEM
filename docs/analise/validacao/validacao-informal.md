@@ -18,11 +18,11 @@ Infelizmente, o grupo não obteve resposta da equipe desenvolvedora, tanto por e
 
 [1] SERRANO, Maurício; SERRANO, Milene; Requisitos.
 
-## 4. Histórico de versão
+## 4. Versionamento
 
-| Versão | Data       | Modificação                   | Autor          |
-| ------ | ---------- | ----------------------------- | -------------- |
-| 1.0    | 22/03/2022 | Criação da página             | Eduardo Gurgel |
-| 1.1    | 23/03/2022 | Elaboração do documento       | Vitor Diniz    |
-| 1.2    | 23/03/2022 | Corrigindo erros e ortografia | Vitor Diniz    |
-| 1.3    | 23/03/2022 | Adicionando mensagem          | Vitor Diniz    |
+| Versão | Data       | Modificação             | Autor                          |
+| ------ | ---------- | ----------------------- | ------------------------------ |
+| 1.0    | 22/03/2022 | Criação da página       | Eduardo Gurgel |
+| 1.1    | 23/03/2022 | Elaboração do documento       | Vitor Diniz |
+| 1.2    | 23/03/2022 | Corrigindo erros e ortografia       | Vitor Diniz |
+| 1.3    | 23/03/2022 | Adicionando mensagem       | Vitor Diniz |

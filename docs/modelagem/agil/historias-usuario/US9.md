@@ -6,7 +6,7 @@
 | --------------------------------------------------------------- | --------------------------------------------------- |
 | As competências devem ser listadas juntamente com a nota obtida | - Competência 1: Aluno obteve nota 160: **Correto** |
 
-# Histórico de versão
+# Versionamento
 
 | Versão | Data       | Descrição                                  | Autor                          |
 | ------ | ---------- | ------------------------------------------ | ------------------------------ |

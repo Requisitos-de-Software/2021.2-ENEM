@@ -29,25 +29,8 @@ Período: De 17/02/2022 até 20/02/2022
 | Resultado                       | Sim                    |
 | Edição do vídeo da apresentação | Sim                    |
 
-### 2.1. Elicitação
-
-#### Técnicas de Elicitação
-
-- [Questionário](../elicitacao/tecnicas-elicitacao/questionario.md)
-- [Entrevista](../elicitacao/tecnicas-elicitacao/entrevista.md)
-- [Introspecção](../elicitacao/tecnicas-elicitacao/introspeccao.md)
-- [Storytelling](../elicitacao/tecnicas-elicitacao/storyboard.md)
-- [Brainstorming](../elicitacao/tecnicas-elicitacao/brainstorming.md)
-- [Observação](../elicitacao/tecnicas-elicitacao/observacao.md)
-
-#### Técnicas de Priorização
-
-- [Grafico Tempo/Esforço](../elicitacao/tecnicas-priorizacao/grafico-tempo-esfor%C3%A7o.md)
-- [MoSCoW](../elicitacao/tecnicas-priorizacao/MoSCoW.md)
-
 ## 3. Histórico de versão
 
-| Versão | Data       | Descrição                                   | Autor   |
-| ------ | ---------- | ------------------------------------------- | ------- |
-| 1.0    | 03/03/2022 | Criação do documento                        | Antonio |
-| 1.1    | 27/03/2022 | Adicionando artefatos trabalhados na sprint | Carlos  |
+| Versão | Data       | Descrição            | Autor   |
+| ------ | ---------- | -------------------- | ------- |
+| 1.0    | 03/03/2022 | Criação do documento | Antonio |

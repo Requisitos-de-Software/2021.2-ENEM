@@ -6,7 +6,7 @@
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | A **sessão** deve ser salva, para que não precise logar novamente em um curto periodo | O usuário acessou o sistema tem 2 minutos e já precisa colocar suas credenciais novamente |
 
-# Histórico de versão
+# Versionamento
 
 | Versão | Data       | Descrição                                  | Autor                          |
 | ------ | ---------- | ------------------------------------------ | ------------------------------ |

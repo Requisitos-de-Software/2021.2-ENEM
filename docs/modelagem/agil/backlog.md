@@ -46,7 +46,7 @@ Em Agile, uma história de usuário é uma descrição curta, informal e em ling
 
 SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 15.
 
-## 5. Histórico de versão
+## 5. Versionamento
 
 | Versão | Data       | Descrição                                        | Autor                        |
 | ------ | ---------- | ------------------------------------------------ | ---------------------------- |

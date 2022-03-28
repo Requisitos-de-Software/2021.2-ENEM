@@ -7,7 +7,7 @@
 | O cronograma deve estar ordenado por **data**, da mais próxima até a mais distante | O usuário deseja ver as provas por **ordem de antecedência**  |
 | Eventos que já ocorreram não devem ser listados                                    | O usuário deseja ver apenas eventos que ainda não aconteceram |
 
-# Histórico de versão
+# Versionamento
 
 | Versão | Data       | Descrição                                  | Autor                          |
 | ------ | ---------- | ------------------------------------------ | ------------------------------ |

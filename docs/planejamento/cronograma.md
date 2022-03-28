@@ -8,15 +8,15 @@
 
 <center>
 
-| Etapas |                         Título                          | Data de início |                                 Descrição                                  | Data de entrega |
-| :----: | :-----------------------------------------------------: | :------------: | :------------------------------------------------------------------------: | :-------------: |
-|   I    |                      Planejamento                       |     27/01      |                   Planejamento do projeto e RichPicture                    |      06/02      |
-|   II   |           [Elicitação](../sprints/sprint1.md)           |     08/02      |                           Técnicas e Priorização                           |      20/02      |
-|  III   |    [Modelagem de Requisitos](../sprints/sprint2.md)     |     22/02      |         Cenários, Léxico, Casos de Uso e Especificação Suplementar         |      06/03      |
-|   IV   | [Modelagem de Requisitos - Ágil](../sprints/sprint3.md) |     08/03      |               Histórias de Usuário, Backlog e NFR Framework                |      09/03      |
-|   V    |     [Análise de Requisitos](../sprints/sprint4.md)      |     10/03      |                          Verificação & Validação                           |      23/03      |
-|   VI   |                   Pós-Rastreabilidade                   |     24/03      | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos |      03/04      |
-|  VII   |                   Apresentação final                    |     05/04      |                            Conclusão do projeto                            |      25/04      |
+| Etapas | Título       | Data de início                                           | Descrição        | Data de entrega        |
+| :------: | :----------: | :---------------------------------------------------: | :------------: | :------------: |
+| I    | Planejamento | 27/01 | Planejamento do projeto e RichPicture | 06/02 |
+| II    | Elicitação | 08/02 | Técnicas e Priorização | 20/02 |
+| III    | Modelagem de Requisitos | 22/02 | Cenários, Léxico, Casos de Uso e Especificação Suplementar | 06/03 |
+| IV    | Modelagem de Requisitos - Ágil | 08/03 | Histórias de Usuário, Backlog e NFR Framework | 09/03 |
+| V    | Análise de Requisitos | 10/03 | Verificação & Validação | 23/03 |
+| VI    | Pós-Rastreabilidade | 24/03 | Gerência de Desenvolvimento de Software orientada à baseline de Requisitos | 03/04 |
+| VII    | Apresentação final | 05/04 | Conclusão do projeto | 25/04 |
 
 <figcaption>Tabela 1: Cronograma de atividades.</figcaption>
 
@@ -34,12 +34,11 @@
 
 ## 4. Histórico de versão
 
-| Versão | Data       | Descrição                                       | Autor                                                               |
-| ------ | ---------- | ----------------------------------------------- | ------------------------------------------------------------------- |
-| 1.0    | 01/02/2022 | Criação do documento                            | Eduardo Gurgel                                                      |
-| 1.1    | 01/02/2022 | Criação da introdução                           | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
-| 1.2    | 01/02/2022 | Adição do cronograma de atividades              | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
-| 1.3    | 01/02/2022 | Correções de formatação                         | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
-| 1.4    | 10/02/2022 | Alteração do cabeçalho do cronograma            | Antonio Rangel                                                      |
-| 1.5    | 10/02/2022 | Padronização do histórico de versão             | Jackes da Fonseca                                                   |
-| 1.6    | 27/03/2022 | Adicionando fluxo para atividades já concluídas | Carlos                                                              |
+| Versão | Data       | Descrição                                           | Autor        |
+| ------ | ---------- | --------------------------------------------------- | ------------ |
+| 1.0    | 01/02/2022 | Criação do documento | Eduardo Gurgel       |
+| 1.1    | 01/02/2022 | Criação da introdução | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
+| 1.2    | 01/02/2022 | Adição do cronograma de atividades | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
+| 1.3    | 01/02/2022 | Correções de formatação | Eduardo Gurgel, Jackes Fonseca, Pedro Henrique Castro e Vitor Diniz |
+| 1.4    | 10/02/2022 | Alteração do cabeçalho do cronograma | Antonio Rangel |
+| 1.5    | 10/02/2022 | Padronização do versionamento | Jackes da Fonseca   |
