@@ -15,15 +15,24 @@ Período: De 21/02/2022 até 06/03/2022
 
 | Atividade                       | A tarefa foi cumprida? |
 | ------------------------------- | ---------------------- |
-| Histórias de usuário            | Sim                    |
-| Backlog                         | Sim                    |
-| NFR Framework                   | Sim                    |
+| Cenários e Casos de uso         | Sim                    |
+| Especificação Suplementar       | Sim                    |
+| Léxicos                         | Sim                    |
 | Edição do vídeo da apresentação | Sim                    |
+
+### 2.1. Modelagem
+
+- [Casos de Uso](../modelagem/casos-de-uso.md)
+- [Cenarios](../modelagem/cenarios.md)
+- [Especificação Suplementar](../modelagem/especificacao-suplementar.md)
+- [Léxicos](../modelagem/lexicos.md)
+- [NFR Framework](../modelagem/nfrframework.md)
 
 ## 3. Histórico de versão
 
-| Versão | Data       | Descrição                                 | Autor   |
-| ------ | ---------- | ----------------------------------------- | ------- |
-| 1.0    | 08/03/2022 | Criação do documento                      | Antonio |
-| 1.1    | 10/03/2022 | Adicionando tarefas cumpridas             | Carlos  |
+| Versão | Data       | Descrição                                                                      | Autor   |
+| ------ | ---------- | ------------------------------------------------------------------------------ | ------- |
+| 1.0    | 08/03/2022 | Criação do documento                                                           | Antonio |
+| 1.1    | 10/03/2022 | Adicionando tarefas cumpridas                                                  | Carlos  |
 | 1.2    | 13/03/2022 | Corrigindo as atividades da sprint, que antes mostravam atividades da sprint 3 | Antonio |
+| 1.3    | 27/03/2022 | Adicionando artefatos trabalhados na sprint                                    | Carlos  |

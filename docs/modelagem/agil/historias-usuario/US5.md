@@ -6,7 +6,7 @@
 | -------------------------------------------------------------------------- | --------------------------------------------------------- |
 | deve conter a **data de solicitação** e a possível **data de confirmação** | O usuário deseja saber o tempo limite para este empecilho |
 
-# Versionamento
+# Histórico de versão
 
 | Versão | Data       | Descrição                                  | Autor                          |
 | ------ | ---------- | ------------------------------------------ | ------------------------------ |

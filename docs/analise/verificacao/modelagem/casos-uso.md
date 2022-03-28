@@ -1,31 +1,32 @@
 # Verificação dos Casos de Uso
+
 ## 1. Introdução
-Para realizar a verificação do documento [Casos de Uso](../modelagem/casos-uso.md) a equipe utilizou a técnica de inspeção, que possui o objetivo de descobrir defeitos nos documentos[1]. 
 
-
+Para realizar a verificação do documento [Casos de Uso](../modelagem/casos-uso.md) a equipe utilizou a técnica de inspeção, que possui o objetivo de descobrir defeitos nos documentos[1].
 
 ## 2. Verificação
-|  ID  |                                    Tópico                             |   Resposta    |
-| :--: | :-------------------------------------------------------------------: | :-----------: |
-|  1   | A introdução está explicando a técnica de forma correta?              |      ✔        | 
-|  2   | O documento explica como a técnica é executada?                       |      ✔        |
-|  3   | O documento possui bibliografia?                                      |      ✔        |
-|  4   | Os artefatos possuem legendas indicando a fonte?                      |      ✖        |
-|  5   | A gramática do documento está correta?                                |      ✔        |
-|  6   | O documento possui versionamento?                                     |      ✔        |
-|  7   | O diagrama possui o limite do sistema?                                |      ✔        |
-|  8   | O diagrama contém os atores?                                          |      ✔        |
-|  9   | O diagrama contém as relações?                                        |      ✔        |
-|  10  | O diagrama possui o fluxo principal ?                                 |      ✔        |
-|  11  | O diagrama possui os fluxos alternativos ?                            |      ✔        |
-|  12  | O diagrama tem os fluxos de exceção ?                                 |      ✔        |
 
+| ID  |                          Tópico                          | Resposta |
+| :-: | :------------------------------------------------------: | :------: |
+|  1  | A introdução está explicando a técnica de forma correta? |    ✔     |
+|  2  |     O documento explica como a técnica é executada?      |    ✔     |
+|  3  |             O documento possui bibliografia?             |    ✔     |
+|  4  |     Os artefatos possuem legendas indicando a fonte?     |    ✖     |
+|  5  |          A gramática do documento está correta?          |    ✔     |
+|  6  |         O documento possui histórico de versão?          |    ✔     |
+|  7  |          O diagrama possui o limite do sistema?          |    ✔     |
+|  8  |               O diagrama contém os atores?               |    ✔     |
+|  9  |              O diagrama contém as relações?              |    ✔     |
+| 10  |          O diagrama possui o fluxo principal ?           |    ✔     |
+| 11  |        O diagrama possui os fluxos alternativos ?        |    ✔     |
+| 12  |          O diagrama tem os fluxos de exceção ?           |    ✔     |
 
 ## 3. Bibliografia
+
 [1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23.
 
+## 4. Histórico de versão
 
-## 4. Versionamento
-| Versão | Data       | Descrição                                        | Autor                        |
-| ------ | ---------- | ------------------------------------------------ | ---------------------------- |
-| 1.0    | 22/03/2022 | Criação da página                                | Antonio Rangel               |
+| Versão | Data       | Descrição         | Autor          |
+| ------ | ---------- | ----------------- | -------------- |
+| 1.0    | 22/03/2022 | Criação da página | Antonio Rangel |

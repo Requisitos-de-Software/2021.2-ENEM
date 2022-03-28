@@ -6,7 +6,7 @@
 | --------------------------------------------------- | --------------------------------------------------------------- |
 | O usuário deve ser redirecionado para tela de login | O usuário precisará fazer o login novamente depois de um logout |
 
-# Versionamento
+# Histórico de versão
 
 | Versão | Data       | Descrição                                  | Autor                          |
 | ------ | ---------- | ------------------------------------------ | ------------------------------ |

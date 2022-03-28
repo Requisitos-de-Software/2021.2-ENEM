@@ -16,10 +16,10 @@ Rich Picture é um artefato que é construido a fim de ilustrar de forma visual 
 
 [Wiki rich_picture](https://en.wikipedia.org/wiki/Rich_picture)
 
-## 5. Versionamento
+## 5. Histórico de versão
 
-| Versão | Data       | Modificação                       | Autor                          |
-| ------ | ---------- | --------------------------------- | ------------------------------ |
-| 1.0    | 29/01/2022 | Criação da primeira versão        | Jackes da Fonseca              |
-| 1.1    | 01/02/2022 | Segunda versão utilizando o figma | Antonio Rangel e Carlos Rafael |
-| 1.2    | 10/02/2022 | Padronização do versionamento     | Jackes da Fonseca              |
+| Versão | Data       | Modificação                         | Autor                          |
+| ------ | ---------- | ----------------------------------- | ------------------------------ |
+| 1.0    | 29/01/2022 | Criação da primeira versão          | Jackes da Fonseca              |
+| 1.1    | 01/02/2022 | Segunda versão utilizando o figma   | Antonio Rangel e Carlos Rafael |
+| 1.2    | 10/02/2022 | Padronização do histórico de versão | Jackes da Fonseca              |

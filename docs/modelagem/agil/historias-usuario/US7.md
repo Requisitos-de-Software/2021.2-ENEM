@@ -7,7 +7,7 @@
 | Devem estar ordenadas por ordem de prioridade (mais recorrentes) | O usuário deseja encontrar a solução para sua dúvida de forma mais otimizada |
 | Devem mostrar apenas perguntas frequentes                        | O usuário deseja ver apenas perguntas frequentes da versão em contexto       |
 
-# Versionamento
+# Histórico de versão
 
 | Versão | Data       | Descrição                                  | Autor                          |
 | ------ | ---------- | ------------------------------------------ | ------------------------------ |

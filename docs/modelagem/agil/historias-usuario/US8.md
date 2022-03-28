@@ -7,7 +7,7 @@
 | Deve conter todas os **resultados anteriores do exame** | O usuário deseja ver resultados anteriores para acompanhar seu desempenho |
 | As notas devem estar divididas em áreas de conhecimento | O usuário deseja saber onde deve melhorar para os próximos exames         |
 
-# Versionamento
+# Histórico de versão
 
 | Versão | Data       | Descrição                                  | Autor                          |
 | ------ | ---------- | ------------------------------------------ | ------------------------------ |

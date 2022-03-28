@@ -59,7 +59,7 @@ Os diagramas de casos de uso ajuda muito no entendimento do contexto e fluxo do 
 <p>Histórias de Usuário vs Casos de uso: Prós e contras para o desenvolvimento ágil, Disponível em: <a href="https://blog.cedrotech.com/historias-de-usuario-vs-casos-de-uso-pros-e-contras-para-o-desenvolvimento-agil">link</a></p>
 <p>Play Store, Inep - ENEM, Disponível em: <a href="https://play.google.com/store/apps/details?id=br.gov.inep.inepenem&hl=pt_BR&gl=US">link</a>. Acesso em: 05/03/2022.</p>
 
-## 6. Versionamento
+## 6. Histórico de versão
 
 | Versão | Data       | Modificação             | Autor                          |
 | ------ | ---------- | ----------------------- | ------------------------------ |

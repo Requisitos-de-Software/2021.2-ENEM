@@ -7,7 +7,7 @@
 | Listagem de todas as **etapas de inscrição**                                | O usuário deseja consultar previamente as etapas necessárias |
 | As etapas de inscrição devem ser distinguidas **(concluida/não concluida)** | O usuário deseja ver quais etapas ainda estão pendentes      |
 
-# Versionamento
+# Histórico de versão
 
 | Versão | Data       | Descrição                                  | Autor                          |
 | ------ | ---------- | ------------------------------------------ | ------------------------------ |
