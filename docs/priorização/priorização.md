@@ -1,6 +1,4 @@
-# <center> First Things First
-
-<div align="justify">
+# First Things First
 
 ## 1. Introdução
 "First Things First" é uma técnica que tem como objetivo priorizar em relação à implementação de certas funcionalidades, considerando fatores que impactam na disponibilização delas aos usuários da aplicação.
@@ -71,12 +69,13 @@
 | RF13 |7|3|10|5,0505|8|8,5106|9|9,2784|0,2839|
 | Total |109|89|198|100|94|100|97|100|7,0814|
   
-  ## Histórico de versão
+
+## 5. Bibliografia
+First Things First: Prioritizing Requirements. E.Wiegers, Karl. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf. Acesso em 17 de agosto de 2021.
+
+## 6. Histórico de versão
 | Data | Versão | Autor | Descrição |
 | :-: | :-: | :-: | :-: |
 | 12/04/2022 | 0.1 | Eduardo Gurgel | Criação do documento |
 | 13/04/2022 | 0.2 | Eduardo Gurgel | Inserir tabela |
 | 14/04/2022 | 0.3 | Eduardo Gurgel | Finalização dos detalhes |
-
-## 5. Referências
-First Things First: Prioritizing Requirements. E.Wiegers, Karl. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf. Acesso em 17 de agosto de 2021.
