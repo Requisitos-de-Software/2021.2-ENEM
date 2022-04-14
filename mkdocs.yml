@@ -41,7 +41,7 @@ nav:
           - MoSCoW: elicitacao/tecnicas-priorizacao/MoSCoW.md
           - Gráfico Tempo X Esforço: elicitacao/tecnicas-priorizacao/grafico-tempo-esforço.md
       - Resultado: elicitacao/resultado.md
-
+  - Priorização: priorização/priorização.md
   - Modelagem:
       - Casos de Uso: modelagem/casos-de-uso.md
       - Cenários: modelagem/cenarios.md
