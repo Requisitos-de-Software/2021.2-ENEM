@@ -11,14 +11,13 @@ Para realizar a verificação do documento [Especificação Suplementar](../mode
 |  1  | A introdução está explicando a técnica de forma correta? |    ✔     |
 |  2  |     O documento explica como a técnica é executada?      |    ✔     |
 |  3  |             O documento possui bibliografia?             |    ✔     |
-|  4  |          A gramática do documento está correta?          |    ✔     |
-|  5  |         O documento possui histórico de versão?          |    ✔     |
-|  6  | O documento possui tabela de requisitos não-funcionais?  |    ✔     |
-|  7  |             O documento possui usabilidade?              |    ✔     |
-|  8  |            O documento possui confiabilidade?            |    ✔     |
-|  9  |             O documento possui desempenho ?              |    ✔     |
-| 10  |           O documento possui suportabilidade ?           |    ✔     |
-| 11  |          O documento possui requisito físico ?           |    ✔     |
+|  4  |         O documento possui histórico de versão?          |    ✔     |
+|  5  | O documento possui tabela de requisitos não-funcionais?  |    ✔     |
+|  6  |             O documento possui usabilidade?              |    ✔     |
+|  7  |            O documento possui confiabilidade?            |    ✔     |
+|  8  |             O documento possui desempenho ?              |    ✔     |
+|  9  |           O documento possui suportabilidade ?           |    ✔     |
+| 10  |          O documento possui requisito físico ?           |    ✔     |
 
 ## 3. Bibliografia
 

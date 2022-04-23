@@ -12,14 +12,13 @@ Para realizar a verificação do documento [Casos de Uso](../modelagem/casos-uso
 |  2  |     O documento explica como a técnica é executada?      |    ✔     |
 |  3  |             O documento possui bibliografia?             |    ✔     |
 |  4  |     Os artefatos possuem legendas indicando a fonte?     |    ✖     |
-|  5  |          A gramática do documento está correta?          |    ✔     |
-|  6  |         O documento possui histórico de versão?          |    ✔     |
-|  7  |          O diagrama possui o limite do sistema?          |    ✔     |
-|  8  |               O diagrama contém os atores?               |    ✔     |
-|  9  |              O diagrama contém as relações?              |    ✔     |
-| 10  |          O diagrama possui o fluxo principal ?           |    ✔     |
-| 11  |        O diagrama possui os fluxos alternativos ?        |    ✔     |
-| 12  |          O diagrama tem os fluxos de exceção ?           |    ✔     |
+|  5  |         O documento possui histórico de versão?          |    ✔     |
+|  6  |          O diagrama possui o limite do sistema?          |    ✔     |
+|  7  |               O diagrama contém os atores?               |    ✔     |
+|  8  |              O diagrama contém as relações?              |    ✔     |
+|  9  |          O diagrama possui o fluxo principal ?           |    ✔     |
+| 10  |        O diagrama possui os fluxos alternativos ?        |    ✔     |
+| 11  |          O diagrama tem os fluxos de exceção ?           |    ✔     |
 
 ## 3. Bibliografia
 

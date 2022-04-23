@@ -8,25 +8,23 @@ Foi utilizado um checklist para a realização da inspeção:
 
 | ID  | Tópico                                   |
 | --- | ---------------------------------------- |
-| 01  | O documento está gramaticamente correto? |
-| 02  | Odocumento está no padrão da wiki?       |
-| 03  | O documento deixa claro seus objetivos?  |
-| 04  | A metodologia está bem explicada?        |
-| 05  | Possui identificação dos requisitos?     |
-| 06  | Possui referências textuais?             |
-| 07  | O documento está coeso e coerente?       |
+| 01  | O documento está no padrão da wiki?       |
+| 02  | O documento deixa claro seus objetivos?  |
+| 03  | A metodologia está bem explicada?        |
+| 04  | Possui identificação dos requisitos?     |
+| 05  | Possui referências textuais?             |
+| 06  | O documento está coeso e coerente?       |
 
 ## 3. Verificação
 
 | ID  | Tópico                                   | Análise |
 | --- | ---------------------------------------- | ------- |
-| 01  | O documento está gramaticamente correto? | ✔       |
-| 02  | Odocumento está no padrão da wiki?       | ✔       |
-| 03  | O documento deixa claro seus objetivos?  | ✔       |
-| 04  | A metodologia está bem explicada?        | ✖       |
-| 05  | Possui identificação dos requisitos?     | ✔       |
-| 06  | Possui referências textuais?             | ✔       |
-| 07  | O documento está coeso e coerente?       | ✔       |
+| 01  | O documento está no padrão da wiki?       | ✔       |
+| 02  | O documento deixa claro seus objetivos?  | ✔       |
+| 03  | A metodologia está bem explicada?        | ✔       |
+| 04  | Possui identificação dos requisitos?     | ✔       |
+| 05  | Possui referências textuais?             | ✔       |
+| 06  | O documento está coeso e coerente?       | ✔       |
 
 ## 4. Conclusão
 
