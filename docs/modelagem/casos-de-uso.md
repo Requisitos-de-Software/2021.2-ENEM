@@ -42,7 +42,7 @@ Entendimento do fluxo de acesso do usuário no aplicativo
 
 #### 3.2. Diagrama de **Resultados Anteriores**
 
-![Login App](./img/resultado_anteriores.drawio.png)
+![Resultados Anteriores](./img/resultado_anteriores.drawio.png)
 
 <center>
 <figcaption> <strong>Autor:</strong> Carlos Rafael</figcaption>
