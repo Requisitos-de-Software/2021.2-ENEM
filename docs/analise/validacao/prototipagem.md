@@ -34,3 +34,4 @@ ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: além da Interação hu
 | ------ | ---------- | -------------------- | --------------------- | ------------- |
 | 1.0    | 22/03/2022 | Criação da página    | Eduardo Gurgel        | Carlos Rafael |
 | 1.1    | 23/03/2022 | Elaboração da página | Pedro Henrique Castro | Carlos Rafael |
+| 1.2    | 25/04/2022 | Revisão Final | Eduardo Gurgel    | Eduardo Gurgel |
