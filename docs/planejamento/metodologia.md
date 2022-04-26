@@ -49,3 +49,4 @@ Os commits e as adições de documentações no github serão feitas no padrão 
 | 1.0    | 10/02/2022 | Criação do documento    | Jackes Fonseca |
 | 1.1    | 13/02/2022 | Elaboração do documento | Vitor Diniz    |
 | 1.2    | 19/02/2022 | Correção da enumaração dos tópicos | Vitor Diniz    |
+| 1.3    | 25/04/2022 | Revisão Final | Eduardo Gurgel    |

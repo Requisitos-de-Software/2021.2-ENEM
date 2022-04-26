@@ -43,3 +43,4 @@ BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. Interação Humano - C
 | ------ | ---------- | --------------------------------------------------- | ------------ |
 | 1.0    | 17/02/2022 | Criação do documento | Carlos Rafael, Pedro Henrique Castro |
 | 1.1    | 18/02/2022 | Elaboração do documento | Carlos Rafael, Pedro Henrique Castro |
+| 1.2    | 25/04/2022 | Revisão Final | Eduardo Gurgel    |
