@@ -111,6 +111,7 @@ nav:
       - Apresentação 4: apresentacoes/apresentacao4.md
       - Apresentação 5: apresentacoes/apresentacao5.md
       - Apresentação 6: apresentacoes/apresentacao6.md
+      - Apresentação 7: apresentacoes/apresentacao7.md
 
 plugins:
   - search
